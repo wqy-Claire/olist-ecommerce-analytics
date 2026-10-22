@@ -1,0 +1,5 @@
+.venv/
+olist_data/
+*.duckdb
+.DS_Store
+__pycache__/
